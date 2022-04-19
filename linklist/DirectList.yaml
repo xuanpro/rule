@@ -2,3 +2,4 @@ payload:
   - DOMAIN,i.tianqi.com
   - DOMAIN,home.xuanpro.com
   - DOMAIN,httpbin.org
+  - DOMAIN,edge.microsoft.com
