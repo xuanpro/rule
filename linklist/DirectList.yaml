@@ -3,4 +3,5 @@ payload:
   - DOMAIN,i.tianqi.com
   - DOMAIN,httpbin.org
   - DOMAIN,livestar.live
+  - DOMAIN,tenglong.co
   - IP-CIDR,107.174.176.21/32
