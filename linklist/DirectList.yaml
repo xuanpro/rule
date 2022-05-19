@@ -1,6 +1,5 @@
 payload:
   - DOMAIN-KEYWORD,xuanpro
-  - DOMAIN-KEYWORD,speedtest
   - DOMAIN,i.tianqi.com
   - DOMAIN,httpbin.org
   - DOMAIN,livestar.live
